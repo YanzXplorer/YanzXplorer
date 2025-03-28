@@ -6,7 +6,7 @@ I'm Paul Dannielle P. Yanzon, an aspiring Front-End Developer and UI/UX Designer
 
 ## 📖 About Me
 
-- ✨ Creating bugs since 2022
+- ✨ Designing since 2023
 - 📚 Currently learning: Svelte, TailwindCSS,JavaScript and Typescript
 - 🎯 Goals: Master front-end development and build impactful digital experiences
 - 🎲 Fun fact: I once created a design that was so intuitive, users thought it was powered by AI but it was just good UX!
